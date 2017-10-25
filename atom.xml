@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="towwide.github.io/blog/"/>
-  <updated>2017-10-25T03:07:53.087Z</updated>
+  <updated>2017-10-25T04:41:33.694Z</updated>
   <id>towwide.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="towwide.github.io/blog/2017/10/25/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>towwide.github.io/blog/2017/10/25/测试文章/</id>
+    <published>2017-10-25T04:39:56.000Z</published>
+    <updated>2017-10-25T04:41:33.694Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我是测试文章"><a href="#我是测试文章" class="headerlink" title="我是测试文章"></a>我是测试文章</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;我是测试文章&quot;&gt;&lt;a href=&quot;#我是测试文章&quot; class=&quot;headerlink&quot; title=&quot;我是测试文章&quot;&gt;&lt;/a&gt;我是测试文章&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="ps" scheme="towwide.github.io/blog/tags/ps/"/>
+    
+      <category term="h5" scheme="towwide.github.io/blog/tags/h5/"/>
+    
+      <category term="web" scheme="towwide.github.io/blog/tags/web/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
